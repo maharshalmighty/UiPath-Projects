@@ -1,0 +1,313 @@
+﻿
+=================================================
+Starting new set of tests at 06:32:21  30/05/2017
+=================================================
+06:32:21	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+06:32:22	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+06:32:25	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+06:32:55	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+06:32:56	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+06:32:56	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+06:32:57	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+06:33:02	Test 8 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:33:08	Test 9 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:33:13	Test 10 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:33:19	Test 11 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:33:25	Test 12 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:33:34	Test 13 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+06:33:38	Test 14 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+06:33:43	Test 15 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+06:33:48	Test 16 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+06:34:18	Test 17 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+06:34:22	Test 18 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:34:27	Test 19 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+========================
+06:34:27	Summary: 14/19 Tests Passed
+
+=================================================
+Starting new set of tests at 06:37:32  PM, 30/05/2017
+=================================================
+06:37:34 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+06:37:35 PM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+06:37:38 PM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+06:38:08 PM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+06:38:08 PM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+06:38:09 PM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+06:38:09 PM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+06:38:15 PM	Test 8 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:38:20 PM	Test 9 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:38:26 PM	Test 10 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:38:32 PM	Test 11 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:38:37 PM	Test 12 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:38:43 PM	Test 13 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:38:48 PM	Test 14 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:38:54 PM	Test 15 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:38:59 PM	Test 16 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:39:02 PM	Test 17 PASS  ---> Framework\CloseAllApplications.xaml
+06:39:07 PM	Test 18 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:39:12 PM	Test 19 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+========================
+06:39:12	Summary: 19/19 Tests Passed
+
+=================================================
+Starting new set of tests at 06:44:33  PM, 30/05/2017
+=================================================
+06:44:35 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+06:44:35 PM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+06:44:39 PM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+06:45:09 PM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+06:45:09 PM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+06:45:09 PM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+06:45:10 PM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+06:45:15 PM	Test 8 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:45:21 PM	Test 9 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:45:26 PM	Test 10 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:45:32 PM	Test 11 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:45:38 PM	Test 12 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:45:43 PM	Test 13 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:45:49 PM	Test 14 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:45:54 PM	Test 15 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:46:00 PM	Test 16 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:46:03 PM	Test 17 PASS  ---> Framework\CloseAllApplications.xaml
+06:46:07 PM	Test 18 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:46:12 PM	Test 19 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+================================
+06:46:12	Summary: 19/19 Tests Passed. Total execution time: 1.65871666666667 Minutes
+
+=================================================
+Starting new set of tests at 06:49:20  PM, 30/05/2017
+=================================================
+06:49:23 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+06:49:23 PM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+06:49:26 PM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+06:49:57 PM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+06:49:57 PM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+06:49:57 PM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+06:49:58 PM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+06:50:03 PM	Test 8 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:50:09 PM	Test 9 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:50:14 PM	Test 10 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:50:20 PM	Test 11 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:50:26 PM	Test 12 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:50:31 PM	Test 13 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:50:37 PM	Test 14 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:50:42 PM	Test 15 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:50:48 PM	Test 16 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:50:51 PM	Test 17 PASS  ---> Framework\CloseAllApplications.xaml
+06:50:55 PM	Test 18 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+06:51:00 PM	Test 19 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+================================
+06:51:00	Summary: 19/19 Tests Passed. Total execution time: 100 seconds
+
+=================================================
+Starting new set of 19 tests at 12:26:22  PM, 17/11/2017
+=================================================
+12:26:23 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+12:26:23 PM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+12:26:23 PM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+12:26:23 PM	Test 4 FAIL  ---> Framework\CloseAllApplications.xaml ---> AppEx
+12:26:23 PM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+12:26:24 PM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+12:26:24 PM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+12:26:24 PM	Test 8 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+12:26:24 PM	Test 9 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+12:26:24 PM	Test 10 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+12:26:24 PM	Test 11 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+12:26:24 PM	Test 12 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+12:26:24 PM	Test 13 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+12:26:24 PM	Test 14 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+12:26:24 PM	Test 15 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+12:26:24 PM	Test 16 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+12:26:24 PM	Test 17 PASS  ---> Framework\CloseAllApplications.xaml
+12:26:24 PM	Test 18 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+12:26:24 PM	Test 19 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+================================
+12:26:24	Summary: 9/19 Tests Passed. Total execution time: 5 seconds
+
+=================================================
+Starting new set of 19 tests at 03:47:45  PM, 13/12/2017
+=================================================
+03:47:45 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+03:47:46 PM	Test 2 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+03:48:16 PM	Test 3 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+
+=================================================
+Starting new set of 19 tests at 04:33:49  PM, 13/12/2017
+=================================================
+04:33:49 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+
+=================================================
+Starting new set of 19 tests at 04:35:24  PM, 13/12/2017
+=================================================
+04:35:25 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+
+=================================================
+Starting new set of 20 tests at 04:44:54  PM, 13/12/2017
+=================================================
+04:44:55 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+04:44:55 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 20 tests at 04:48:06  PM, 13/12/2017
+=================================================
+04:48:07 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+04:48:07 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 20 tests at 04:48:22  PM, 13/12/2017
+=================================================
+04:48:23 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+04:48:23 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 20 tests at 04:49:18  PM, 13/12/2017
+=================================================
+04:49:18 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+04:49:18 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+04:49:19 PM	Test 3 FAIL  ---> Framework\InitAllApplications.xaml ---> 
+04:49:49 PM	Test 4 FAIL  ---> Framework\CloseAllApplications.xaml ---> 
+04:50:19 PM	Test 5 FAIL  ---> Framework\CloseAllApplications.xaml ---> 
+04:50:19 PM	Test 6 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+04:50:20 PM	Test 7 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+04:50:20 PM	Test 8 FAIL  ---> Framework\InitAllApplications.xaml ---> 
+04:50:20 PM	Test 9 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:20 PM	Test 10 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:20 PM	Test 11 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:20 PM	Test 12 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:20 PM	Test 13 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:20 PM	Test 14 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:20 PM	Test 15 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:20 PM	Test 16 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:20 PM	Test 17 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:50 PM	Test 18 FAIL  ---> Framework\CloseAllApplications.xaml ---> 
+04:50:50 PM	Test 19 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+04:50:50 PM	Test 20 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+================================
+04:50:50	Summary: 0/20 Tests Passed. Total execution time: 95 seconds
+
+=================================================
+Starting new set of 20 tests at 04:58:16  PM, 13/12/2017
+=================================================
+04:58:17 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+04:58:17 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 20 tests at 06:45:44  PM, 13/12/2017
+=================================================
+06:45:45 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+06:45:45 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 20 tests at 06:51:15  PM, 13/12/2017
+=================================================
+06:51:16 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+06:51:16 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 20 tests at 07:13:10  PM, 13/12/2017
+=================================================
+07:13:11 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+07:13:11 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 23 tests at 07:17:04  PM, 13/12/2017
+=================================================
+07:17:04 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+07:17:04 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 23 tests at 07:26:57  PM, 13/12/2017
+=================================================
+07:26:58 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+07:26:58 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 24 tests at 07:29:50  PM, 13/12/2017
+=================================================
+07:29:51 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+07:29:51 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 24 tests at 07:31:17  PM, 13/12/2017
+=================================================
+07:31:18 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+07:31:18 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+07:31:49 PM	Test 3 FAIL  ---> Framework\GetAppCredentials.xaml ---> 
+
+=================================================
+Starting new set of 23 tests at 11:09:25  AM, 14/12/2017
+=================================================
+11:09:26 AM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+11:09:26 AM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 23 tests at 11:37:19  AM, 14/12/2017
+=================================================
+11:37:20 AM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+11:37:20 AM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 23 tests at 11:46:27  AM, 14/12/2017
+=================================================
+11:46:28 AM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+11:46:28 AM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+11:46:45 AM	Test 3 FAIL  ---> System1\Login.xaml ---> 
+
+=================================================
+Starting new set of 23 tests at 11:54:23  AM, 14/12/2017
+=================================================
+11:54:24 AM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+11:54:24 AM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+11:54:51 AM	Test 3 FAIL  ---> System1\Login.xaml ---> 
+11:54:52 AM	Test 4 FAIL  ---> System1\System1_NavigateTo_WorkItem.xaml ---> 
+11:55:44 AM	Test 5 FAIL  ---> System1\Extract Work Item Data Table.xaml ---> 
+11:55:44 AM	Test 6 FAIL  ---> Framework\GetTransactionData.xaml ---> 
+11:55:44 AM	Test 7 FAIL  ---> System1\System1_NavigateTo_WIDetails.xaml ---> 
+11:56:15 AM	Test 8 FAIL  ---> System1\System1_ExtractClientInformation.xaml ---> 
+11:56:15 AM	Test 9 FAIL  ---> SHA1Online\SHA1Online Open.xaml ---> 
+11:56:46 AM	Test 10 FAIL  ---> SHA1Online\SHA1Online_GetHashCode.xaml ---> 
+11:57:16 AM	Test 11 FAIL  ---> System1\Update Work Items.xaml ---> 
+11:57:46 AM	Test 12 FAIL  ---> SHA1Online\SHA1Online Close.xaml ---> 
+11:57:46 AM	Test 13 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+11:57:46 AM	Test 14 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+11:57:46 AM	Test 15 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+11:57:46 AM	Test 16 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+11:57:46 AM	Test 17 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+11:57:46 AM	Test 18 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+11:57:46 AM	Test 19 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+11:57:46 AM	Test 20 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+11:58:17 AM	Test 21 FAIL  ---> Framework\CloseAllApplications.xaml ---> 
+11:58:17 AM	Test 22 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+11:58:17 AM	Test 23 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> 
+================================
+11:58:17	Summary: 0/23 Tests Passed. Total execution time: 237 seconds
+
+=================================================
+Starting new set of 23 tests at 12:00:06  PM, 14/12/2017
+=================================================
+12:00:07 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+12:00:07 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 23 tests at 12:01:59  PM, 14/12/2017
+=================================================
+12:02:00 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+12:02:00 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+
+=================================================
+Starting new set of 23 tests at 12:02:57  PM, 14/12/2017
+=================================================
+12:02:58 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+12:02:58 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+12:03:27 PM	Test 3 FAIL  ---> System1\Login.xaml ---> 
+12:03:29 PM	Test 4 FAIL  ---> System1\System1_NavigateTo_WorkItem.xaml ---> 
+12:04:23 PM	Test 5 FAIL  ---> System1\Extract Work Item Data Table.xaml ---> 
+
+=================================================
+Starting new set of 23 tests at 12:21:09  PM, 14/12/2017
+=================================================
+12:21:09 PM	Test 1 FAIL  ---> Framework\InitAllSettings.xaml ---> 
+12:21:09 PM	Test 2 FAIL  ---> Framework\KillAllProcesses.xaml ---> 
+12:21:35 PM	Test 3 FAIL  ---> System1\Login.xaml ---> 
+12:21:36 PM	Test 4 FAIL  ---> System1\System1_NavigateTo_WorkItem.xaml ---> 
+12:22:28 PM	Test 5 FAIL  ---> System1\Extract Work Item Data Table.xaml ---> 
